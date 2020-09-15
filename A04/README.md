@@ -12,7 +12,8 @@
   Then print in Post-order traversal
 
 
-#### A good example of a BST 
+#### A good example of a BST along with helpful information
+https://www.softwaretestinghelp.com/binary-search-tree-in-cpp/
 
 ```cpp
 //declaration for new bst node  
