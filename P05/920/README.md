@@ -1,4 +1,4 @@
-##### The process
+### The process:
 
 ##### Read from a file the number of cases, and the number of points per case.
 ##### Store these items in a vector of structs.
